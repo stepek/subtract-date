@@ -1,0 +1,23 @@
+{
+  "name": "subtract-date",
+  "version": "1.0.0",
+  "description": "Simple node package to calculate subtract dates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepek/subtract-date.git"
+  },
+  "keywords": [
+    "date",
+    "subtract"
+  ],
+  "author": "\"Kamil Stepczuk <k.stepczuk@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stepek/subtract-date/issues"
+  },
+  "homepage": "https://github.com/stepek/subtract-date#readme"
+}
